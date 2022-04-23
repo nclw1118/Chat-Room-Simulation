@@ -1,4 +1,4 @@
-# Chat-Room-Simulation
+# ChatRoom Simulation
 <b>Chat Room Simulation</b>
 <ul>
   <li>User account registraion and profile update</li>
